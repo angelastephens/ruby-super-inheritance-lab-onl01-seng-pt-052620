@@ -1,4 +1,4 @@
-class ChattytStudent < Student
+class ChattyStudent < Student
   
   
    def hello
