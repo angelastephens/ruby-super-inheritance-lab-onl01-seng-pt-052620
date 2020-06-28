@@ -1,9 +1,9 @@
 class ChattytStudent < Student
   
   
-  def hello
-    super
-    
-  
+   def hello
+     Super
+    puts "Hey there! I'm so excited to learn stuff."
+  end
   
 end
